@@ -2,6 +2,19 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Brahian Estiben Pino Prado</h2>
 
+### <div align="center">I am a student in the learning process, eager to take on the world 🌍💻.</div>
+
+
+- 📘 Learning ReactJS and NodeJS while improving my skills in Python, Java, MySQL, HTML, and CSS
+
+
+- 🔍 Curious and passionate about technology, always motivated to learn and grow
+
+
+- ✉️ You can reach me by Email [Here](mailto:brianpino015@gmail.com)
+
+
+- 💡 Eager to contribute value and bring new ideas to innovative companies
 
 
 ## Programming Languages🧑‍💻

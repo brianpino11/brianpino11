@@ -11,7 +11,7 @@
 - 🔍 Curious and passionate about technology, always motivated to learn and grow
 
 
-- ✉️ You can reach me by Email [Here](mailto:brianpino015@gmail.com)
+- ✉️ You can reach me by Email ---> brianpino015@gmail.com
 
 
 - 💡 Eager to contribute value and bring new ideas to innovative companies

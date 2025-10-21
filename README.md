@@ -5,7 +5,7 @@
 ### <div align="center">I am a student in the learning process, eager to take on the world 🌍💻.</div>
 
 
-- 📘 Learning ReactJS and NodeJS while improving my skills in Python, Java, MySQL, HTML, and CSS
+- 📘 Learning ReactJS and NodeJS while improving my skills in Java, MySQL, HTML, and CSS
 
 
 - 🔍 Curious and passionate about technology, always motivated to learn and grow
